@@ -69,3 +69,16 @@ The aim of this analysis is to analyze smart devices fitness data and determine 
 6. Transforming data - Merging & Keeping only the data we require. 
 
 Code used for processing data —> [Processing](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/1.Process-Phase.R)
+
+# 4. Analyse Phase
+
+We'll perform our analysis in the following steps:
+
+- 1. Distinguishing different user types by steps taken/per day
+- 2. Analyzing sleep data and categorizing users accordingly
+- 3. Monitoring average steps taken and sleep intake in a week by users
+- 4. Looking for correlation between steps, calories and sleep
+- 5. Analyzing the data on steps and calories by hours of weekdays
+- 6. Calculating average usage of device by days and IDs
+
+Code used for Analysing and Visualizing data —> [Analysing](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/2.Analyze-Phase.R)
