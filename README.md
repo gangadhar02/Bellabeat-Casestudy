@@ -82,3 +82,18 @@ We'll perform our analysis in the following steps:
 - 6. Calculating average usage of device by days and IDs
 
 Code used for Analysing and Visualizing data —> [Analysing](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/2.Analyze-Phase.R)
+
+### **1. Types of Users by Activity Level**
+
+Users are classified based on the number of steps taken per day.  
+
+We can divide users as follows :
+
+- Sedentary - Less than 5000 steps a day.
+- Lightly active - Between 5000 and 7499 steps a day.
+- Fairly active - Between 7500 and 9999 steps a day.
+- Very active - More than 10000 steps a day.
+
+![Rplot.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82451364-fc3b-4a67-ae42-1e4c6b3582e2/Rplot.png)
+
+![usertypespercentage.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddbfcd11-90ba-4a1f-b2f2-6cf26131d96b/usertypespercentage.png)
