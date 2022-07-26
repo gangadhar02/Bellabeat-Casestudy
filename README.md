@@ -166,7 +166,7 @@ We will calculate the number of users that use their smart device on a daily bas
 
 ![Dailyuseofsmartdevice.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Dailyuseofsmartdevice.jpg)
 
-### S**mart device used in a day**
+### **Smart device used in a day**
 
 Being more precise we want to see how many minutes do users wear their device per day. For that we will merge the created "users_byid" data frame and "daily_activity" to be able to filter results by daily use of device as well.
 
@@ -192,7 +192,7 @@ Being low users who wear more time their device the day they use it.
 
 Being more precise we want to see how many minutes do users wear their device per day. For that we will merge the created "users_byid" data frame and "daily_activity" to be able to filter results by daily use of device as well.
 
-![Timewornday.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbb30fed-7b24-4bbb-a4da-a3657f8f50cd/Timewornday.png)
+![Timewornday.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Timewornday.png)
 
 Per our plots we can see that 36% of the total of users wear the device all day long, 60% more than half day long and just 4% less than half day.
 
