@@ -40,10 +40,6 @@ The aim of this analysis is to analyze smart devices fitness data and determine 
 6. License: CC0: Public Domain
 7. Tables: 18
 
-<aside>
-💡 Add tables description here
-
-</aside>
 
 ### Data Limitations and biases:
 
