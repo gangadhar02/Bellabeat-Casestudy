@@ -120,12 +120,12 @@ We will now look for any correlation between sleep, steps and calories using a c
 
 **STEPS**
 
-![AvgStps:Hour.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33794761-84e3-402e-90c6-d5343c509ca7/AvgStpsHour.jpg)
+![AvgStps:Hour.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/AvgStps:Hour.jpg)
 
-![Avgstps:hr.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51449e0d-876e-473b-9b24-b6165c32a921/Avgstpshr.jpg)
+![Avgstps:hr.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Avgstps:hr.jpg)
 
 **CALORIES**
 
-![AvgCal:Hr.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/feda468d-77cd-4565-9356-d00c83b297b3/AvgCalHr.jpg)
+![AvgCal:Hr.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/AvgCal:Hr.jpg)
 
-![AvgCal:Hur.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1bf877f-63f1-46a4-8b39-f0ab88695c6b/AvgCalHur.jpg)
+![AvgCal:Hur.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/AvgCal:Hur.jpg)
