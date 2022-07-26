@@ -104,7 +104,7 @@ Now, we will take a look at the sleep patterns of our users. Ideal sleep time fo
 
 ![percentage of sleep.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/percentage%20of%20sleep.png)
 
-### 3**. Correlation between Steps, Sleep and Calories**
+### 3.Correlation between Steps, Sleep and Calories
 
 We will now look for any correlation between sleep, steps and calories using a correlation chart
 
@@ -116,7 +116,7 @@ We will now look for any correlation between sleep, steps and calories using a c
 2. There is **no relationship** between *steps taken* and *sleep intake* per day.
 3. There is **no relationship** between *sleep intake* and *calories burned* per day.
 
-### 4****. Average Steps and Calories Per Hour Per Weekday****
+### 4.Average Steps and Calories Per Hour Per Weekday
 
 **STEPS**
 
@@ -192,6 +192,6 @@ Bellabeat can customize their devices even more by being more customer-centric. 
 - A feature specially made for *pregnant women* to monitor their diet, sleep and activity, and making recommendations accordingly, how much calories they should burn by the day and also keeping a *food chart* of sort can help.
 - Not to mention functionalities like hourly remainder for drinking water and monitoring water consumption and to let consumers know when they are dehydrated will make their services stand out.
 
-### 3***.* Making it More Fun**
+### 3.Making it More Fun
 
 One of the ways to convince the users to adopt good habits is to encourage them with *Positive Reinforcements* from time to time. Sending encouraging notifications with just a little bit of data on how far they have come today with their habits at the end of the day can be stress reliving and motivating. They can customize it even further by adding animations, ranking systems, adding friends and access to their stats etc. This is even more important as ~38% of the users don't use their device on a daily basis
