@@ -166,46 +166,32 @@ We will calculate the number of users that use their smart device on a daily bas
 
 ![Dailyuseofsmartdevice.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Dailyuseofsmartdevice.jpg)
 
-### **Smart device used in a day**
+# 5.Act Phase - Recommendations
 
-Being more precise we want to see how many minutes do users wear their device per day. For that we will merge the created "users_byid" data frame and "daily_activity" to be able to filter results by daily use of device as well.
+### **1. Understanding the Customer Segment**
 
-![Timewornday.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Timewornday.png)
+First and foremost, I think bellabeat should ascertain it's customer segment. Although all of Bellabeat products are aimed for women, to make informed decision we need more information. For instance, age-group:
 
-Per our plots we can see that 36% of the total of users wear the device all day long, 60% more than half day long and just 4% less than half day.
+- Are most of the bellabeat customers working women in their late 30s and early 40s?
+- What fraction of the customer base are teenage girls?
+- What proportion of the customers are in their mid-20s?
 
-If we filter the total users considering the days they have used the device and also check each day how long they have worn the device, we have the following results:
+Also, as we saw during the *preparation phase*, there is a lack of demographic data, bellabeat should focus more on demographic. Questions like:
 
-Just a reminder:
+- What percentage of the total customers are Westerners?
+- What fraction of the customer base is Eastern?
 
-- high use - users who use their device between 21 and 31 days.
-- moderate use - users who use their device between 10 and 20 days.
-- low use - users who use their device between 1 and 10 days.
+As customers from different regions vary in their lifestyles, they have different needs.
 
-High users - Just 6.8% of the users that have used their device between 21 and 31 days wear it all day. 88.9% wear the device more than half day but not all day.
+Asking specific questions like those will help Bellabeat to zero-in on their major customer segments.
 
-Moderate users are the ones who wear the device less on a daily basis.
+### ***2.* Taking a Holistic Approach**
 
-Being low users who wear more time their device the day they use it.
+Bellabeat can customize their devices even more by being more customer-centric. For e.g.
 
-### S**mart device used in a day**
+- A feature specially made for *pregnant women* to monitor their diet, sleep and activity, and making recommendations accordingly, how much calories they should burn by the day and also keeping a *food chart* of sort can help.
+- Not to mention functionalities like hourly remainder for drinking water and monitoring water consumption and to let consumers know when they are dehydrated will make their services stand out.
 
-Being more precise we want to see how many minutes do users wear their device per day. For that we will merge the created "users_byid" data frame and "daily_activity" to be able to filter results by daily use of device as well.
+### 3***.* Making it More Fun**
 
-![Timewornday.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Timewornday.png)
-
-Per our plots we can see that 36% of the total of users wear the device all day long, 60% more than half day long and just 4% less than half day.
-
-If we filter the total users considering the days they have used the device and also check each day how long they have worn the device, we have the following results:
-
-Just a reminder:
-
-- high use - users who use their device between 21 and 31 days.
-- moderate use - users who use their device between 10 and 20 days.
-- low use - users who use their device between 1 and 10 days.
-
-High users - Just 6.8% of the users that have used their device between 21 and 31 days wear it all day. 88.9% wear the device more than half day but not all day.
-
-Moderate users are the ones who wear the device less on a daily basis.
-
-Being low users who wear more time their device the day they use it.
+One of the ways to convince the users to adopt good habits is to encourage them with *Positive Reinforcements* from time to time. Sending encouraging notifications with just a little bit of data on how far they have come today with their habits at the end of the day can be stress reliving and motivating. They can customize it even further by adding animations, ranking systems, adding friends and access to their stats etc. This is even more important as ~38% of the users don't use their device on a daily basis
