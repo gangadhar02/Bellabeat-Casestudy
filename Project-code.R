@@ -16,7 +16,7 @@ hourly_steps <- read.csv("Downloads/Fitabase Data 4.12.16-5.12.16/hourlySteps_me
 hourly_intensities <- read.csv("Downloads/Fitabase Data 4.12.16-5.12.16/hourlyIntensities_merged.csv")
 hourly_calories <- read.csv("Downloads/Fitabase Data 4.12.16-5.12.16/hourlyCalories_merged.csv")
 
-#Viewing metadata
+#Viewing metadata of each table
 
 head(daily_activity)
 skim_without_charts(daily_activity)
