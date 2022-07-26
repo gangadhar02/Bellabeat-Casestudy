@@ -97,3 +97,35 @@ We can divide users as follows :
 ![Rplot.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Rplot.png)
 
 ![usertypespercentage.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/usertypespercentage.png)
+
+### **2. Monitoring Sleep**
+
+Now, we will take a look at the sleep patterns of our users. Ideal sleep time for an adult is 7 hours or 420 minutes (at minimum), so anything below that can be categorised as "insufficient sleep".
+
+![percentage of sleep.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/percentage%20of%20sleep.png)
+
+### 3**. Correlation between Steps, Sleep and Calories**
+
+We will now look for any correlation between sleep, steps and calories using a correlation chart
+
+![correlation_stepsvscal.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/correlation_stepsvscal.png)
+
+**Observations from above correlation chart :**
+
+1. There is **direct relationship** between *steps taken* and *calories burned* per day.
+2. There is **no relationship** between *steps taken* and *sleep intake* per day.
+3. There is **no relationship** between *sleep intake* and *calories burned* per day.
+
+### 4****. Average Steps and Calories Per Hour Per Weekday****
+
+**STEPS**
+
+![AvgStps:Hour.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33794761-84e3-402e-90c6-d5343c509ca7/AvgStpsHour.jpg)
+
+![Avgstps:hr.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51449e0d-876e-473b-9b24-b6165c32a921/Avgstpshr.jpg)
+
+**CALORIES**
+
+![AvgCal:Hr.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/feda468d-77cd-4565-9356-d00c83b297b3/AvgCalHr.jpg)
+
+![AvgCal:Hur.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1bf877f-63f1-46a4-8b39-f0ab88695c6b/AvgCalHur.jpg)
