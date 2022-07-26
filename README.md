@@ -129,3 +129,83 @@ We will now look for any correlation between sleep, steps and calories using a c
 ![AvgCal:Hr.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/AvgCal:Hr.jpg)
 
 ![AvgCal:Hur.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/AvgCal:Hur.jpg)
+
+**Observations from above  visualisations :**
+
+1. Sedentary users never took more than 500 steps in any hour.
+2. Only very active users took more than 1000 steps in some hours.
+3. If we consider wakefulness time to be from 7AM to 10PM, we have the following observations:
+    
+    3.1. Lightly and fairly active people are more active on the first hour of the day which suggest most of them may exercise habitually.
+    
+    3.2. Activity level peaks somewhere between 6-7PM of all user types especially of very active users. One might guess it's the time when they come back from work.
+    
+4. There is a negligible decline in activity on weekends on the part of fairly and very active people, while there is a sharp decline on activity levels in lightly active and sedentary users.
+5. Since, calories and steps taken have a direct relationship we have the same set of observations here as in average steps/hour.
+
+### 5.Usage of smart device
+
+![Usersbyday.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Usersbyday.png)
+
+**Daily usage by days:**
+
+Within an **31** days of data recorded we can't expect to see a clear daily trend in a Caldendar plot, however, we can still see few interesting points here:
+
+- Of a total of 24 Ids (100%), the number of users who used their devices daily can vary from as little as 33% (8 users) to as many as 71% (17 users) each day. The greatest number of users per day is around double that of the least number of user per day.
+- Participants used their devices more frequently in the first half of the period than days towards the end
+
+**Daily usage by ids:**
+
+Now we will classify the usage with respect to each id and see how many days each of the participants used their devices. That way we can plan our marketing strategy and see what features would benefit the use of smart devices.
+
+We will calculate the number of users that use their smart device on a daily basis, classifying our sample into three categories knowing that the date interval is 31 days:
+
+- high use - users who use their device between 21 and 31 days.
+- moderate use - users who use their device between 10 and 20 days.
+- low use - users who use their device between 1 and 10 days.
+
+![Dailyuseofsmartdevice.jpg](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Dailyuseofsmartdevice.jpg)
+
+### S**mart device used in a day**
+
+Being more precise we want to see how many minutes do users wear their device per day. For that we will merge the created "users_byid" data frame and "daily_activity" to be able to filter results by daily use of device as well.
+
+![Timewornday.png](https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Visuals/Timewornday.png)
+
+Per our plots we can see that 36% of the total of users wear the device all day long, 60% more than half day long and just 4% less than half day.
+
+If we filter the total users considering the days they have used the device and also check each day how long they have worn the device, we have the following results:
+
+Just a reminder:
+
+- high use - users who use their device between 21 and 31 days.
+- moderate use - users who use their device between 10 and 20 days.
+- low use - users who use their device between 1 and 10 days.
+
+High users - Just 6.8% of the users that have used their device between 21 and 31 days wear it all day. 88.9% wear the device more than half day but not all day.
+
+Moderate users are the ones who wear the device less on a daily basis.
+
+Being low users who wear more time their device the day they use it.
+
+### S**mart device used in a day**
+
+Being more precise we want to see how many minutes do users wear their device per day. For that we will merge the created "users_byid" data frame and "daily_activity" to be able to filter results by daily use of device as well.
+
+![Timewornday.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbb30fed-7b24-4bbb-a4da-a3657f8f50cd/Timewornday.png)
+
+Per our plots we can see that 36% of the total of users wear the device all day long, 60% more than half day long and just 4% less than half day.
+
+If we filter the total users considering the days they have used the device and also check each day how long they have worn the device, we have the following results:
+
+Just a reminder:
+
+- high use - users who use their device between 21 and 31 days.
+- moderate use - users who use their device between 10 and 20 days.
+- low use - users who use their device between 1 and 10 days.
+
+High users - Just 6.8% of the users that have used their device between 21 and 31 days wear it all day. 88.9% wear the device more than half day but not all day.
+
+Moderate users are the ones who wear the device less on a daily basis.
+
+Being low users who wear more time their device the day they use it.
