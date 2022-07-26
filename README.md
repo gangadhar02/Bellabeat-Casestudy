@@ -72,4 +72,4 @@ The aim of this analysis is to analyze smart devices fitness data and determine 
 5. Making variable names and date time consistent.
 6. Transforming data - Merging & Keeping only the data we require. 
 
-Code used for cleaning and visualizing data —>
+Code used for cleaning and visualizing data —> [Code] (https://github.com/gangadhar02/Bellabeat-Casestudy/blob/main/Project-code.R)
