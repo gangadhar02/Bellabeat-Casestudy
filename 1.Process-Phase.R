@@ -11,7 +11,7 @@ library(ggrepel)
 #Importing data (CSV's)
 
 daily_activity <- read_csv("Downloads/Fitabase Data 4.12.16-5.12.16/dailyActivity_merged.csv")
-daily_sleep <- read.csv(file= "Downloads/Fitabase Data 4.12.16-5.12.16/sleepDay_merged.csv")
+daily_sleep <- read.csv( "Downloads/Fitabase Data 4.12.16-5.12.16/sleepDay_merged.csv")
 hourly_steps <- read.csv("Downloads/Fitabase Data 4.12.16-5.12.16/hourlySteps_merged.csv")
 hourly_intensities <- read.csv("Downloads/Fitabase Data 4.12.16-5.12.16/hourlyIntensities_merged.csv")
 hourly_calories <- read.csv("Downloads/Fitabase Data 4.12.16-5.12.16/hourlyCalories_merged.csv")
